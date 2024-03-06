@@ -9,7 +9,7 @@ What is NovaNickel?
 NovaNickel is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
 introduced by the NovaNickel development team.
 
-For more information about NovaNickel itself, see https://novanickel.org.
+For more information about NovaNickel itself, see https://novanickel.net .
 
 What is NovaNickel?
 ----------------
