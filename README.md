@@ -17,7 +17,6 @@ What is NovaNickel?
 NovaNickel is the name of open source software which enables the use of this currency. It takes NovaNickel to the next level by building upon
 Bitcoin Core 0.13.2 with some patches from newer Bitcoin Core versions to offer performance enhancements, wider compatibility with third party services and a more advanced base.
 
-For more information, as well as an immediately useable, binary version of the NovaNickel software, see https://novanickel.net.
 
 License
 -------
